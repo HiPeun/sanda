@@ -1,0 +1,173 @@
+@charset "utf-8";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/* ========================= 재사용가능한 클래스 ========*/
+
+
+.M{
+    width: 100px;
+    height: 100px;
+}
+
+.f{
+    font-size: 46px;
+}
+
+
+.mx-auto{
+    margin: auto;
+}
+
+.line-height{
+    line-height: 43px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.my-30{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.mx-2{
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+
+.text-upper{
+    text-transform: uppercase;
+}
+.text-movie{
+    font-size: 16px;
+   
+}
+
+.movie-poster{
+    width: 600px;
+    height: 300px;
+    font-size: 0;
+}
+.divider{
+    border:0;
+    height: 1px;
+    background-color: #d075c3;
+}
+
+.my-100{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.my-20{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.my-10{
+    margin-top: 0px;
+    margin-bottom: 40px;
+}
+
+.nav{
+    height: 70px;
+    line-height: 70px;
+}
+
+.bg-nav{
+    background-color: black;
+}
+/*==================== 개별 요소에 적용할 스타일 ============== */
+
+.letter-spacing{
+    letter-spacing: -40px;
+}
+
+.sale{
+    font-size: 20px;
+    color: #eb89dd;
+}
+
+.line-height2{
+    line-height: 80px;
+}
+
+.font-size2{
+    font-size: 50px;
+    color: #ffd200;
+
+}
+.font-size3{
+    font-size: 18px;
+}
+
+.text-upper{
+    text-transform: uppercase;
+}
+.white{
+    border: solid white;
+}
+
+.letter-spacing{
+    letter-spacing: 15px;
+    font-size: 15px;
+}
+
+.bg-sns{
+    background-color: black;
+}
+
+.line-height3{
+    line-height: 200px;
+}
+
+.my-underline{
+    text-decoration: underline;
+    
+}
+
+.font-size4{
+    font-size: 20px;
+    color: #d075c3;
+}
+
+.brand{
+    font-style: italic;
+}
+
+.border{
+ border: black;
+  
+}
+
+.border1{
+    border-width: 1px;
+    margin-top: 10px;
+}
+
+
+.color{
+    color: white;
+}
+
+
+.brand3 {
+
+    display: block;
+    width: 400px;
+    border: 1px solid black;
+    padding: 10px 0;
+}
+
+
+
+.brand4 {
+    margin-bottom: 40px;
+}
