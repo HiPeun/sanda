@@ -2,5 +2,17 @@
 
 @media screen and (max-width: 600px){
 
-    
+    .main{
+        width: 100vw;
+        height: auto;
+    }
+    .main img { 
+        width: 100%
+    }
+    .movie-poster{
+        width: 100vw;
+        height: auto;
+
+    }
+    .
 }
